@@ -1,0 +1,16 @@
+{
+  "name": "inscripcion-universidad",
+  "version": "1.0.0",
+  "description": "generación de la API rest de la universidad",
+  "main": "inscripcion-universidad",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon inscripcion-universidad"
+  },
+  "author": "leimabesa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
